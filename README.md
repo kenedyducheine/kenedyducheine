@@ -2,13 +2,13 @@
      GitHub doesn't allow custom styles here, so each panel is an image
      made from kenedyducheine.github.io (same art, fonts and colors). -->
 
-<a href="https://kenedyducheine.github.io"><img src="images/banner.jpg" alt="Hi, I'm Kenedy. I'm a student at Georgetown. I make azine, a weekly recommendation board for essays, movies, albums and novels, for people who would rather discover things than be fed them." width="100%"></a>
+<a href="https://kenedyducheine.github.io"><img src="images/banner.jpg" alt="Hi, I'm Kenedy. I'm a student at Georgetown. I created azine, a weekly recommendation board for essays, movies, albums and novels. It's for people who are made at ads/influencers/AI slop <3" width="100%"></a>
 
 <a href="https://azine.io"><img src="images/making.jpg" alt="Making: azine, a weekly recommendation board for essays, movies, albums and novels, built with Python, FastAPI and the Claude API. No influencers, no AI slop." width="100%"></a>
 
 <img src="images/projects.jpg" alt="Projects" width="100%">
 
-<a href="https://github.com/kenedyducheine/statistical-crime-analysis"><img src="images/project-crime.jpg" alt="Project 01, Statistical Crime Analysis (2026, Python and R): testing Hawkes processes against log-Gaussian Cox processes on crime data from Chicago and Vancouver." width="49%"></a>
+<a href="https://github.com/kenedyducheine/statistical-crime-analysis"><img src="images/project-crime.jpg" alt="Project 01, Statistical Crime Analysis (2026, Python and R): testing Hawkes processes against log-Gaussian Cox processes on crime data from Chicago, Vancouver, and NYC." width="49%"></a>
 <a href="https://github.com/kenedyducheine/coding-theory-final-project"><img src="images/project-reed-muller.jpg" alt="Project 02, Reed-Muller Codes (2025, Python): encoding and decoding with error-correcting codes at different noise levels." width="49%"></a>
 
 <a href="https://github.com/kenedyducheine/Harris_and_Walz"><img src="images/project-harris-walz.jpg" alt="Project 03, Harris and Walz on Reddit (2024, Python): word clouds, sentiment and topic modeling of posts about the 2024 Democratic ticket." width="49%"></a>
