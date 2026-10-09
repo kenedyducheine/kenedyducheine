@@ -2,7 +2,7 @@
      GitHub doesn't allow custom styles here, so each panel is an image
      made from kenedyducheine.github.io (same art, fonts and colors). -->
 
-<a href="https://kenedyducheine.github.io"><img src="images/banner.jpg" alt="Hi, I'm Kenedy. I'm a student at Georgetown. I created azine, a weekly recommendation board for essays, movies, albums and novels. It's for people who are mad at ads/influencers/AI slop <3" width="100%"></a>
+<a href="https://kenedyducheine.github.io"><img src="images/banner.jpg" alt="Hi, I'm Kenedy. I'm a master's student at Georgetown. I created azine, a weekly recommendation board for essays, movies, albums and novels. It's for people who are mad at ads/influencers/AI slop. I also created Grid Notes. A true to scale notes app that allows you to create notes within notes. This is for grid paper lovers who felt the market was missing something." width="100%"></a>
 
 <a href="https://azine.io"><img src="images/making.jpg" alt="Making: azine, a weekly recommendation board for essays, movies, albums and novels, built with Python, FastAPI and the Claude API. No influencers, no AI slop." width="100%"></a>
 
