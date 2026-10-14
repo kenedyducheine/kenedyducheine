@@ -19,6 +19,9 @@
 
 <a href="https://kenedyducheine.github.io"><img src="images/footer.jpg" alt="Thanks for stopping by" width="100%"></a>
 
+<!-- plain text, so search engines have words to find (the panels above are pictures) -->
+<p align="center"><b>Kenedy Ducheine</b> · Math master's student at Georgetown University · creator of <a href="https://azine.io">azine</a>, a weekly recommendation board for essays, movies, albums and novels, and Grid Notes, a grid paper notes app for the iPad.</p>
+
 <p align="center">
   <a href="https://kenedyducheine.github.io">kenedyducheine.github.io</a> ·
   <a href="https://kenedyducheine.github.io/azine.html">How azine works</a> ·
