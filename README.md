@@ -9,7 +9,7 @@
 <a href="https://kenedyducheine.github.io"><img src="images/projects.jpg" alt="Projects in two columns. Math: Statistical Crime Analysis (2026, point processes) and Reed-Muller Codes (2025, coding theory). Computer science: azine, Grid Paper Notes, Operation Negative One, Harris and Walz on Reddit, colorblindpalette, and Pop Song Streams." width="100%"></a>
 
 <!-- plain text, so search engines have words to find (the panels above are pictures) -->
-<p align="center"><b>Kenedy Ducheine</b> · Math and statistics master's student at Georgetown University · creator of <a href="https://azine.io">azine</a>, a weekly recommendation board for essays, movies, albums and novels, and Grid Paper Notes, a grid paper notes app for the iPad.</p>
+<p align="center"><b>Kenedy Ducheine</b> · Math and statistics master's student at Georgetown University · creator of <a href="https://azine.io">azine</a>, a curated catalog of essays, movies, albums and novels free of AI slop, and Grid Paper Notes, a grid paper notes app for the iPad.</p>
 
 <p align="center">
   <a href="https://kenedyducheine.github.io">kenedyducheine.github.io</a> ·
