@@ -4,7 +4,7 @@
      part of the pictures: to change what shows, change the site, then
      re-make the pictures from it. -->
 
-<a href="https://kenedyducheine.github.io"><img src="images/header.jpg" alt="Kenedy Ducheine. Master's student in mathematics and statistics at Georgetown. Undergrad in Data Science from the University of South Florida. GitHub, LinkedIn, azine.io." width="100%"></a>
+<a href="https://kenedyducheine.github.io"><img src="images/header.jpg" alt="Kenedy Ducheine. Master's student in mathematics and statistics at Georgetown. B.S. in Data Science from the University of South Florida. GitHub, LinkedIn, azine.io." width="100%"></a>
 
 <a href="https://kenedyducheine.github.io"><img src="images/projects.jpg" alt="Projects in two columns. Math: Statistical Crime Analysis (2026, point processes) and Reed-Muller Codes (2025, coding theory). Computer science: azine, Grid Paper Notes, Operation Negative One, Harris and Walz on Reddit, colorblindpalette, and Pop Song Streams." width="100%"></a>
 
